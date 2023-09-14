@@ -1,0 +1,5 @@
+[init]
+	defaultbranch = main
+[user]
+	name = Matthias Baumgart
+	email = matthias.baumgart@zeiss.com
